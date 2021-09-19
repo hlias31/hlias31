@@ -1,6 +1,6 @@
 ---
 - 👋 Hi, I’m <b>@hlias31</b>
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning basic development with PHP, JS, and SQL
+- 🌱 I’m currently learning basic development with PHP, JS, SQL as well as Data Mining and Machine Learning
 - 📫 How to reach me hliasvarelas3113@gmail.com
 ---
